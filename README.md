@@ -12,3 +12,11 @@ In order to run the application you need to:
 - After you changed directory you need to `stack build' to build the application and then `stack exec calc' to run the application
 - Alternatively you can `cd xx` where xx is the name of directory and then type into command line `stack runghc Main.hs` and it shloud launch the application
 - After you have launched the application, open your browser and navigate to `http://localhost:3000`
+
+## Resources:
+- [Yesod Book](http://www.yesodweb.com/book)
+- [Fielding Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+- [24 Days of GHC Extensions](https://ocharles.org.uk/blog/pages/2014-12-01-24-days-of-ghc-extensions.html)
+- [School of haskell](https://www.schoolofhaskell.com/)
+- [Learn You a Haskell](http://learnyouahaskell.com/chapters)
+- Lecture slides
